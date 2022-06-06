@@ -16,7 +16,7 @@
     Linux \
     Script Shell \
     Java \
-    C \
+    C 
     
 - 🌳 Meus repositórios possuem alguns exemplos de exercicios ou sistemas que desenvolvi
 - 🏈 Alguns comentários estão em inglês e outros em português pois dependendo do objetivo de desenvolvendo (para o github ou para entrega na ETEC)
