@@ -3,20 +3,20 @@
 - 🌱 Estou atualmente cursando Desenvolvimento de Sistemas na ETEC
 - 🚀 O que estudei mais até o momento foi:
 
-    HTML
-    CSS
-    JavaScript
-    Bootstrap
-    PHP
-    Mysql (mariaDB)
-    Apache
-    Composer
-    Docker
-    Docker-Compose
-    Linux
-    Script Shell
-    Java
-    C
+    HTML /
+    CSS /
+    JavaScript /
+    Bootstrap /
+    PHP /
+    Mysql (mariaDB) /
+    Apache /
+    Composer /
+    Docker /
+    Docker-Compose /
+    Linux /
+    Script Shell /
+    Java /
+    C /
     
 - 🌳 Meus repositórios possuem alguns exemplos de exercicios ou sistemas que desenvolvi
 - 🏈 Alguns comentários estão em inglês e outros em português pois dependendo do objetivo de desenvolvendo (para o github ou para entrega na ETEC)
